@@ -1,3 +1,3 @@
 # Basic_Algorithms
 
-1.Merge Sort
+01.Merge Sort
